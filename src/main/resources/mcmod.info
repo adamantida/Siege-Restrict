@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "SiegeMod",
+    "name": "Siege Mod",
+    "description": "Fortress siege mechanics for Minecraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["SumalyFly"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["CommandRestrict"]
+  }
+]
